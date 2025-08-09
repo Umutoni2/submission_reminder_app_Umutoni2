@@ -88,7 +88,7 @@ Note: The script ignores the first header line.
 ### Contact
 
 If you have any questions, feedback, or suggestions, please don’t hesitate to get in touch.
-
-**Your Name:** Sylvie UMUTONI RUTAGANIRA
-**Email:** [s.umutonir@alustudent.com](mailto:s.umutonir@alustudent.com)
-**GitHub:** Umutoni2
+```
+Name: Sylvie UMUTONI RUTAGANIRA
+Email: [s.umutonir@alustudent.com](mailto:s.umutonir@alustudent.com)
+```
