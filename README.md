@@ -1,4 +1,4 @@
-**Submission Reminder Script**
+**SUBMISSION REMINDER SYSTEM**
 
 This project is a simple yet effective shell script designed to help you keep track of student assignment submissions. It scans a list of submissions and sends reminders for any assignments that remain marked as "not submitted."
 
@@ -88,7 +88,6 @@ Note: The script ignores the first header line.
 ### Contact
 
 If you have any questions, feedback, or suggestions, please don’t hesitate to get in touch.
-```
-Name: Sylvie UMUTONI RUTAGANIRA
-Email: [s.umutonir@alustudent.com](mailto:s.umutonir@alustudent.com)
-```
+
+**Name:** Sylvie UMUTONI RUTAGANIRA
+**Email:** [s.umutonir@alustudent.com](mailto:s.umutonir@alustudent.com)
